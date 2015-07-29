@@ -1,6 +1,6 @@
 Package.describe({
   name: 'davidrums:tota11y',
-  version: '0.0.3',
+  version: '0.0.10',
   summary: 'port of the tota11y package to Meteor',
   git: 'https://github.com/Davidrums/Meteor-tota11y.git',
   documentation: 'README.md',
